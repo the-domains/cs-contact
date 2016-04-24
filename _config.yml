@@ -1,7 +1,7 @@
 name: CS CONTACT
 favicon: null
-layout_spectrum: 0.9026883374899626
-typography_spectrum: 0.38467140309512615
+layout_spectrum: 0.92194
+typography_spectrum: 0.66034
 title: CONTACT US
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6467508161440492
+    - '#b6b7bc'
+    - '#ffffff'
+    - '#000000'
+    - '#f7971e'
+    - '#474747'
+  brandStrength: 0.75
   lightness: 0.8960750051774085
   saturation: 0.3630813134368509
   rhythmicContrast: 0.3558458676561713
