@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CONTACT US]]></title>
         <description><![CDATA[CONTACT US]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cs-contact/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 11:44:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 11:50:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cs-contact/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drop off area]]></title>
+            <description><![CDATA[<article><h1>Drop off area</h1><p>19/F, W BUSINESS CENTRE, 4 KAM HONG STREET, NORTH POINT, HONG KONG</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76844aa4-7664-4ebf-81e0-6fad0a4aefd1.png"></article>]]></description>
+            <link>https://thegrid.ai/cs-contact/drop-off-area/index.html</link>
+            <guid isPermaLink="false">554ce3dd-d7fc-4eab-8ed4-35d257ee2c22</guid>
+            <pubDate>Sun, 24 Apr 2016 11:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FIND US HERE]]></title>
             <description><![CDATA[<article><h1>FIND US HERE</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a70813a-bb50-433d-a236-d5a3cabfd24f.jpg"></article>]]></description>
-            <link>undefinedfind-us-here/index.html</link>
+            <link>https://thegrid.ai/cs-contact/find-us-here/index.html</link>
             <guid isPermaLink="false">6e69c038-6ecb-4bec-b32b-ffb3420ff191</guid>
             <pubDate>Sun, 24 Apr 2016 11:44:13 GMT</pubDate>
         </item>
