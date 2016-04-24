@@ -1,0 +1,28 @@
+name: CS CONTACT
+favicon: null
+layout_spectrum: 0.9026883374899626
+typography_spectrum: 0.38467140309512615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6467508161440492
+  lightness: 0.8960750051774085
+  saturation: 0.3630813134368509
+  rhythmicContrast: 0.3558458676561713
+purpose: []
